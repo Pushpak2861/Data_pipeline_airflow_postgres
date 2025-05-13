@@ -1,10 +1,10 @@
-# 🚀 Containerized Data Ingestion Pipeline with Airflow, PostgreSQL, and S3
+# Containerized Data Ingestion Pipeline with Airflow, PostgreSQL, and S3
 
 This project implements a **production-grade data ingestion pipeline** using **Apache Airflow**, **PostgreSQL**, **AWS S3**, and **Docker**. The pipeline automates CSV data retrieval from an S3 bucket and ingests it into a PostgreSQL database in chunks with live progress tracking using `tqdm`.
 
 ---
 
-## 🎥 Demo
+## Demo
 
 ![Ingestion Pipeline Demo](media/airflow_ingestion.gif)
 
@@ -12,7 +12,7 @@ This project implements a **production-grade data ingestion pipeline** using **A
 
 ---
 
-## 🔧 Project Features
+## Project Features
 
 - **Dockerized architecture** with isolated containers for Airflow, Postgres, and pgAdmin.
 - **Airflow DAG** for workflow orchestration and task scheduling.
