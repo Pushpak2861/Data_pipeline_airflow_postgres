@@ -6,7 +6,7 @@ This project implements a **production-grade data ingestion pipeline** using **A
 
 ## Demo
 
-![Ingestion Pipeline Demo](media/airflow_ingestion.gif)
+![Ingestion Pipeline Demo](media/airflow_ingestion01.gif)
 
 > This GIF shows the Airflow DAG being triggered, the ingestion logs with tqdm progress bar, and data visible in pgAdmin.
 
