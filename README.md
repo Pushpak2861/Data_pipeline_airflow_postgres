@@ -50,7 +50,7 @@ cd data-ingestion-airflow
 ---
 ---
 
-### 2. 🧪 Create and Populate `.env`
+### 2. Create and Populate `.env`
 Create a `.env` file in the root directory:
 
 ```ini
